@@ -12,23 +12,10 @@ body {
 
 .assignment img {
     padding:15px;
+    width:200px;
 }
 
 .assignment img:hover {
-    border:4px dashed white;
-}
-
-.assignment2 {
-    background:#D79CFD;
-    padding:25px;
-    margin:15px;
-}
-
-.assignment2 img {
-    padding:15px;
-}
-
-.assignment2 img:hover {
     border:4px dashed white;
 }
 
