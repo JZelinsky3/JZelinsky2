@@ -15,20 +15,14 @@ body {
     width:200px;
 }
 
-.assignment img:hover {
-    border:4px dashed white;
-}
-
 h1 {
+    display:flex;
     color:#D79CFD;
     text-align:center;
 }
 
-h1:hover {
-    border:4px dashed #D79CFD;
-}
-
 a {
+    display:flex;
     text-decoration:none;
     color:whitesmoke
 }
