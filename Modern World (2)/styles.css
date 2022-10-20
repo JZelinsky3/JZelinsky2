@@ -12,36 +12,17 @@ body {
 
 .assignment img {
     padding:15px;
-}
-
-.assignment img:hover {
-    border:4px dashed white;
-}
-
-.assignment2 {
-    background:#D79CFD;
-    padding:25px;
-    margin:15px;
-}
-
-.assignment2 img {
-    padding:15px;
-}
-
-.assignment2 img:hover {
-    border:4px dashed white;
+    width:200px;
 }
 
 h1 {
+    display:flex;
     color:#D79CFD;
     text-align:center;
 }
 
-h1:hover {
-    border:4px dashed #D79CFD;
-}
-
 a {
+    display:flex;
     text-decoration:none;
     color:whitesmoke
 }
